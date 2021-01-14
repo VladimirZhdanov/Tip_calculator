@@ -19,4 +19,3 @@ You will need a mac computer, xcode app and as optional physical iPhone.
 ## A few words
 
 This application has been created to familiarize myself with the swift programming language and its tools.
-
