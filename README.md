@@ -12,8 +12,8 @@ You will need a mac computer, xcode app and as optional physical iPhone.
 
 
 <div align="left">
-    <img src="https://github.com/VladimirZhdanov/Bytecoin/blob/main/images/IMG_0307.PNG" width="200px"</img> 
-    <img src="https://github.com/VladimirZhdanov/Bytecoin/blob/main/images/IMG_0308.PNG" width="200px"</img> 
+    <img src="https://github.com/VladimirZhdanov/Tip_calculator/blob/master/images/IMG_0305.PNG" width="200px"</img> 
+    <img src="https://github.com/VladimirZhdanov/Tip_calculator/blob/master/images/IMG_0306.PNG" width="200px"</img> 
 </div>
 
 ## A few words
